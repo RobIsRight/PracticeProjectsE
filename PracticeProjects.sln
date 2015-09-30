@@ -23,6 +23,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PythogoreanTriplet", "Pytho
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SumOfPrimes", "SumOfPrimes\SumOfPrimes.vcxproj", "{87FC62C3-23B7-410C-853B-209FA90FBC29}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "PowerDigitSum", "PowerDigitSum\PowerDigitSum.vcxproj", "{8C777480-50CD-425D-AF19-1EFC03B32FE2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -69,6 +71,10 @@ Global
 		{87FC62C3-23B7-410C-853B-209FA90FBC29}.Debug|Win32.Build.0 = Debug|Win32
 		{87FC62C3-23B7-410C-853B-209FA90FBC29}.Release|Win32.ActiveCfg = Release|Win32
 		{87FC62C3-23B7-410C-853B-209FA90FBC29}.Release|Win32.Build.0 = Release|Win32
+		{8C777480-50CD-425D-AF19-1EFC03B32FE2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8C777480-50CD-425D-AF19-1EFC03B32FE2}.Debug|Win32.Build.0 = Debug|Win32
+		{8C777480-50CD-425D-AF19-1EFC03B32FE2}.Release|Win32.ActiveCfg = Release|Win32
+		{8C777480-50CD-425D-AF19-1EFC03B32FE2}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
